@@ -10,7 +10,7 @@
 
 # Lens.vim
 
-A Vim Automatic Window Resizing Plugin
+A Vim Automatic Window Resizing Plugin - Actually working fork of it
 
 `Lens.vim` automatically resizes windows when their content exceeds their window dimensions,
 but does so respecting some minimum and maximum resize bounds ensuring automatically resized
